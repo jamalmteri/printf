@@ -3,7 +3,7 @@
 /**
  * _write_char - writes the character c to stdout
  * @c: The character to print
- *
+ * Description: write th character c to stdout
  * Return: On success 1.
  * On error, -1 is returned, and errno is set appropriately.
  */
